@@ -7,4 +7,7 @@
     <RootNamespace>identity_server_4_client_mvc_demo</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="IdentityModel" Version="6.0.0" />
+  </ItemGroup>
 </Project>
