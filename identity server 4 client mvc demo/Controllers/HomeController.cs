@@ -1,6 +1,7 @@
 ﻿using identity_server_4_client_mvc_demo.Models;
 using identity_server_4_client_mvc_demo.Services;
 using IdentityModel.Client;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Diagnostics;
@@ -28,6 +29,7 @@ namespace identity_server_4_client_mvc_demo.Controllers
             return View();
         }
 
+        [Authorize]
         public async Task<IActionResult> Weather()
         {
             var data = new List<WeatherData>();
