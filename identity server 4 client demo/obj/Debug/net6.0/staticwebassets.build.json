@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4no2lU5pVbsPITPuXHCxRESkkBnhR/t2V+nCWIa75EI=",
+  "Source": "identity server 4 client demo",
+  "BasePath": "_content/identity server 4 client demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
