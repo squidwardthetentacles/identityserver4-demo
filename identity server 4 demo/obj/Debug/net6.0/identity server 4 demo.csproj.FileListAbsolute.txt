@@ -1,0 +1,66 @@
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.exe
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.deps.json
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.runtimeconfig.json
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\ref\identity server 4 demo.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.pdb
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.AssemblyInfo.cs
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\scopedcss\bundle\identity server 4 demo.styles.css
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.dll
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\ref\identity server 4 demo.dll
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.pdb
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.genruntimeconfig.cache
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\identity server 4 demo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.csproj.CopyComplete
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.exe
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.deps.json
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.runtimeconfig.json
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\ref\identity server 4 demo.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\identity server 4 demo.pdb
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.AssemblyInfo.cs
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\scopedcss\bundle\identity server 4 demo.styles.css
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.csproj.CopyComplete
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\ref\identity server 4 demo.dll
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.pdb
+C:\Users\User\Desktop\desktop\identity server 4 demo\obj\Debug\net6.0\identity server 4 demo.genruntimeconfig.cache

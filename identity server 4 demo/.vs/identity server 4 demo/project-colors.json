@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a75215d-2b76-4a0c-9292-84789dafc015": {
+      "ProjectGuid": "1a75215d-2b76-4a0c-9292-84789dafc015",
+      "DisplayName": "identity server 4 demo",
+      "ColorIndex": 0
+    },
+    "2d0ad97c-a691-4c62-b2d8-9ed833b226a1": {
+      "ProjectGuid": "2d0ad97c-a691-4c62-b2d8-9ed833b226a1",
+      "DisplayName": "identity server 4 demo",
+      "ColorIndex": 1
+    },
+    "0e9a175c-c103-4d54-a7a1-23202ffa254a": {
+      "ProjectGuid": "0e9a175c-c103-4d54-a7a1-23202ffa254a",
+      "DisplayName": "identity server 4 demo",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
